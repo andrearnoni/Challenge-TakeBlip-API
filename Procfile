@@ -1,1 +1,0 @@
-web: cd Api && node index.js
