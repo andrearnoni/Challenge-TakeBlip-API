@@ -3,7 +3,6 @@ const repoService = require('../services/repoService');
 
 const router = express.Router();
 
-
 router.get('/:position', async (_req, res) => {
   try {
     const { position } = _req.params;
