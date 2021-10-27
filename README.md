@@ -21,7 +21,7 @@
 <br>
 
 <p>O link para a API 👇🏻</p>
-<p><a>https://challenge-takeblip.herokuapp.com/</a></p>
+<a>https://challenge-takeblip.herokuapp.com/</a>
 
 <h2>Detalhes da elaboração</h2>
 
