@@ -12,9 +12,16 @@
 
 <p>Elaborar um fluxo conversacional em um chatbot na plataforma da Take Blip e em conjunto desenvolver uma API para o fornecimento de dados para o chatbot</p>
 
+<br>
+
 <div align="center">
   <img src="./Api/images/takeBlip.gif">
 </div>
+
+<br>
+
+<p>O link para a API 👇🏻</p>
+<p><a>https://challenge-takeblip.herokuapp.com/</a></p>
 
 <h2>Detalhes da elaboração</h2>
 
